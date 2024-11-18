@@ -1,0 +1,14 @@
+*INFORMACAO DA ELEIÇÃO*
+
+Vencedor: Ciclano
+Votos totais: 3
+Votos por candidato:
+Fulano teve 0 votos.
+Ciclano teve 2 votos.
+Beltrano teve 1 votos.
+
+*INFORMAÇÃO DOS VOTANTES*
+
+41446845044 - Ciclano
+01486183085 - Ciclano
+81718640072 - Beltrano

@@ -1,0 +1,16 @@
+** Passos para Criar e Administrar uma Eleição: **
+
+* Configurar Pergunta e Opções de Voto: *
+Para iniciar, preencha o formulário com a pergunta da eleição e as opções de voto disponíveis. Você terá até quatro espaços para inserir as opções, mas lembre-se que pelo menos duas opções precisam ser preenchidas. Se quiser usar menos de quatro, basta deixar os campos extras em branco.
+
+* Iniciar a Eleição: *
+Após preencher a pergunta e as opções, clique no botão "Começar Eleição!" para dar início ao processo de votação. A partir desse momento, a tela mostrará em tempo real o progresso da votação.
+
+* Acompanhar a Situação dos Votos: *
+Durante a eleição, você verá uma tabela atualizada em tempo real com a contagem dos votos para cada opção, permitindo monitorar a participação e a situação da eleição conforme ela avança.
+
+* Encerrar a Eleição: *
+Quando desejar finalizar a eleição, clique em "Encerrar eleição". O sistema solicitará uma confirmação para garantir que a decisão de encerrar está correta. Após a confirmação, a votação será finalizada, e os resultados não poderão ser alterados.
+
+* Atenção: *
+Certifique-se de inserir as opções corretamente antes de iniciar a eleição, pois a pergunta e as opções de voto não poderão ser modificadas após o início.

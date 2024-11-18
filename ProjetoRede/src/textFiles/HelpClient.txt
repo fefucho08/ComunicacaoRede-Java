@@ -1,0 +1,16 @@
+**Bem-vindo ao Sistema de Votação! Siga os passos abaixo para realizar seu voto:**
+
+* Conectar ao Servidor *:
+Para começar, clique no botão "Conectar ao servidor". Isso estabelecerá uma conexão segura para o sistema de votação.
+
+* Tela de Votação *:
+Após conectar ao servidor, você será redirecionado para a tela de votação. Nessa tela, insira seu CPF no campo indicado para validar sua identidade.
+
+* Escolha de Opção *:
+Após inserir o CPF, visualize as opções de voto apresentadas. Selecione uma das opções para confirmar sua escolha.
+
+* Enviar Voto *:
+Após escolher a opção desejada, clique no botão "Votar!" para enviar seu voto. Uma mensagem de confirmação será exibida para garantir que seu voto foi registrado com sucesso.
+
+* Atenção *:
+Certifique-se de preencher corretamente o CPF e verificar sua escolha antes de clicar em "Votar!". Após o envio, o voto não poderá ser alterado.

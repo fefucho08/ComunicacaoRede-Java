@@ -1,0 +1,14 @@
+Desenvolvedores:
+- **Carlos Eduardo De Deus Costa - 240459**
+- **Felipe Ferreira Moreira - 237124**
+- **Gabriel Dias Ponsoni - 257103**
+
+Ambiente de Desenvolvimento Integrado (IDE) utilizado:
+- **Eclipse**
+
+Ano de lançamento:
+- **2024**
+
+Este programa foi desenvolvido como parte do curso:
+- **G_SI400A_2024S2 - Programação Orientada a Objetos II**
+- Professor: **André Angelis**
